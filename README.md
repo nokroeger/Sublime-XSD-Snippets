@@ -1,0 +1,2 @@
+Sublime-XSD-Snippets
+====================
