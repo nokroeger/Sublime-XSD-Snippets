@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<xs:minExclusive value="${1:minValue}"/>
+<xs:maxExclusive value="${2:maxValue}"/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>oint</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

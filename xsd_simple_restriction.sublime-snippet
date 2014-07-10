@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<xs:simpleType name="${1:name}">
+	<xs:restriction base="${2:basetype}">
+		${3:content}
+	</xs:restriction>
+</xs:simpleType>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sres</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

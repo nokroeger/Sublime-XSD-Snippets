@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<xs:minLength value="${1:minValue}"/>
+<xs:maxLength value="${2:maxValue}"/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lint</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
